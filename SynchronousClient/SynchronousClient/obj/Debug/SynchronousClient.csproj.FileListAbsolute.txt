@@ -1,0 +1,12 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.exe.config
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\bin\Debug\SynchronousClient.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\ClientServer\SynchronousClient\SynchronousClient\obj\Debug\SynchronousClient.csprojResolveAssemblyReference.cache
